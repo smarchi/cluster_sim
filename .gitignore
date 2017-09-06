@@ -2,7 +2,8 @@
 shot_noise_plots
 shot_noise_results
 shot_noise_samples
-*.ipynb
+cluster_sim.ipynb
+.ipynb_checkpoints
 
 # Compiled source #
 ###################
