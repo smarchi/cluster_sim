@@ -2,6 +2,7 @@
 shot_noise_plots
 shot_noise_results
 shot_noise_samples
+*.ipynb
 
 # Compiled source #
 ###################
